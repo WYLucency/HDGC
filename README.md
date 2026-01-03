@@ -1,4 +1,4 @@
-## Code for "Mitigating Privacy Risks in Graph Condensation from a Hyperbolic Geometry Perspective"
+## Code for "Mitigating Privacy Risks in Graph Condensation from a Hyperbolic Geometry Perspective", published in KDD2026.
 
 
 ## Usage
